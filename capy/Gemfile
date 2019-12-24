@@ -1,0 +1,5 @@
+source 'https://rubygems.org' #origem do repositório que quero baixar as minhas bibliotecas
+
+gem 'capybara'
+gem 'selenium-webdriver'
+gem 'rspec'
